@@ -1,0 +1,5 @@
+git clone https://github.com/ahmedferoz96/SeminarRepository.git
+git status
+git add NewFile2.txt
+git commit -m "commit.txt added"
+git push
